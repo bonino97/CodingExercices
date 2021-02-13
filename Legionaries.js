@@ -39,4 +39,4 @@ function integerToRoman(integer) {
   return romanNumber;
 }
 
-console.log(getConcurrences());
+getConcurrences();

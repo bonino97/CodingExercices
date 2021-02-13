@@ -15,7 +15,7 @@ function isPalindrome(number) {
 }
 
 
-function countPalindromes() {
+function sumPalindromes() {
     let cont = 0;
     const finalValue = 10000;
     for (let i = 0; i <= finalValue; i++) {
@@ -26,4 +26,4 @@ function countPalindromes() {
     return cont;
 }
 
-countPalindromes();
+sumPalindromes();
